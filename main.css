@@ -91,4 +91,9 @@ lightbox {
 
 .image-text {
 	overflow: hidden;
-}	
+}
+
+.instruction-answer > img {
+	float: left;
+	padding: 5px;
+}
