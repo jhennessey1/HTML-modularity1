@@ -1,0 +1,32 @@
+.data-table {
+	width: 100%;
+}
+
+.data-table tr {
+	border-bottom: 1px solid black;
+	font-size: 18px;
+	padding: 10px 0px;
+}
+
+.data-table tr:last-of-type {
+	border-bottom: none;
+}
+
+.stats {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	width: 25%;
+}
+
+.number {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+
+.label {
+	font-weight: lighter;
+	font-size: 10px;
+	opacity: .5;
+	text-align: center;
+}
